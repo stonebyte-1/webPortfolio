@@ -16,8 +16,6 @@ body {
   padding: 15px 40px;
   background-color: #1a1a1a;
   position: sticky;
-  top: 0;
-  z-index: 100;
 }
 
 #startofNav {
@@ -57,7 +55,6 @@ body {
   text-shadow: 0 0 8px #00a3ff;
 }
 
-/* END SECTION */
 #endOfNav {
   text-align: right;
   display: flex;
