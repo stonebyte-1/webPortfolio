@@ -125,3 +125,16 @@ html {
   color: #ededed;
   font-size: 2.5rem;
 }
+section {
+  padding: 80px 60px;
+}
+.section-title {
+  font-size: 2.2rem;
+}
+.project-grid,
+.cert-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
